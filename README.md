@@ -1,13 +1,14 @@
 # robustness-analysis-framework
-Robustnees Analysis Framework
+Robustness Analysis Framework
 
-
+# Primeiros passos
 Executar arquivo "Main_Analise_Incerteza.py" no Python
 Verificar se as pastas "Anexos_15_min" e "Anexos_120_min" foram criadas
 
+#  Parâmetros do modelo
 No arquivo "Main_Analise_Incerteza.py", atentar aos parâmtros
-##############################################################################
-#                           Parâmetros do modelo
+
+
 # Treinar modelo = 1, não treinar = 0
 trainModel = 0
 
