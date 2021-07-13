@@ -6,14 +6,6 @@ Created on Thu Mar 19 22:00:35 2020
 @author: emerson
 """
 
-'''
-    Pendencias:
-        1. Salvar todos os dataframes em arquivos
-        2. Ver robustez, análise dos valores estacao/saída da rede
-        3. Ver limite minimo do grafico da incerteza (ok)
-        4. Implementar função para ver quantas vezes o valor medio acontece (nenhuma)
-        
-'''
 
 # Bibliotecas padrão
 import numpy as np
